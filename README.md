@@ -1,7 +1,6 @@
 # Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering
 
-This is a Pytorch implementation for [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering (IJCAI 2020)](https://ijcai20.org).   
->NOTE: The offical publication has not been published!
+## If you have any question, please email to [zhu.zihao@outlook.com](zhu.zihao@outlook.com)
 
 # Requirements
 1. Install Python 3.7.
