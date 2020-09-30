@@ -1,6 +1,6 @@
 # Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering
 
-## If you have any question, please email to [zhu.zihao@outlook.com](zhu.zihao@outlook.com)
+## If you have any question, please email to [zhu.zihao@outlook.com]
 
 # Requirements
 1. Install Python 3.7.
